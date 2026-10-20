@@ -2,7 +2,7 @@
 
 Business systems developer. I build custom **Odoo** modules, automate the manual work in a business, and make apps for phone and desktop.
 
-Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The Rentory app and the smaller modules are open-source; the Rentory Odoo module is closed-source.
+Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The Rentory app and the smaller modules are open-source; Odoo Rentory is closed-source.
 
 🌐 [blasedoesit.com](https://blasedoesit.com) · ✉️ kosai@blasedoesit.com · 📅 [Book a 15 min call](https://cal.com/kosai/15min)
 
@@ -18,7 +18,7 @@ Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental Hous
 
 | Project | What it does |
 |---|---|
-| **Rentory** · closed-source, [details](https://blasedoesit.com/projects/rentory/) | Full rental and asset management app: orders, availability per serial, barcode pickup and return, deposits, late fees, invoicing, fixed asset link, Arabic PDF documents. |
+| **Odoo Rentory** · closed-source, [details](https://blasedoesit.com/projects/rentory/) | Full rental and asset management app: orders, availability per serial, barcode pickup and return, deposits, late fees, invoicing, fixed asset link, Arabic PDF documents. |
 | [**odoo-arabic-invoices-vouchers**](https://github.com/BlaseDoesIt/odoo-arabic-invoices-vouchers) · open-source | Arabic invoices and receipt/payment vouchers printed straight from Odoo, with amounts written in correct Arabic words. |
 | [**odoo-attendance-shift-guard**](https://github.com/BlaseDoesIt/odoo-attendance-shift-guard) · open-source | GPS geofence check-in, personal shifts, reminders and overtime approval on top of Odoo Attendances. |
 | [**odoo-rental-revenue-analytics**](https://github.com/BlaseDoesIt/odoo-rental-revenue-analytics) · open-source | Most rented products and top customer reports for Odoo Rental, built on SQL views. |
