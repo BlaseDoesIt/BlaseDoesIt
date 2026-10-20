@@ -4,7 +4,7 @@ Business systems developer. I build custom **Odoo** modules, automate the manual
 
 Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The Rentory app and the smaller modules are open-source; Odoo Rentory is closed-source.
 
-🌐 [blasedoesit.com](https://blasedoesit.com) · ✉️ kosai@blasedoesit.com · 📅 [Book a 15 min call](https://cal.com/kosai/15min)
+🌐 [blasedoesit.com](https://blasedoesit.com) · ✉️ kosai@blasedoesit.com · 💼 [LinkedIn](https://www.linkedin.com/in/kosai-alhafez-a48706445/) · 📅 [Book a 15 min call](https://cal.com/kosai/15min)
 
 ---
 
