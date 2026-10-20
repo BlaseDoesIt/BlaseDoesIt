@@ -2,11 +2,17 @@
 
 Business systems developer. I build custom **Odoo** modules, automate the manual work in a business, and make apps for phone and desktop.
 
-Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The smaller modules are open-source; Rentory is closed-source.
+Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The Rentory app and the smaller modules are open-source; the Rentory Odoo module is closed-source.
 
 🌐 [blasedoesit.com](https://blasedoesit.com) · ✉️ kosai@blasedoesit.com · 📅 [Book a 15 min call](https://cal.com/kosai/15min)
 
 ---
+
+#### Apps (phone and desktop)
+
+| Repo | What it does |
+|---|---|
+| [**rentory-app**](https://github.com/BlaseDoesIt/rentory-app) · open-source | Flutter rental app for Android, iPhone, Windows and Mac. Orders, pickups with checklist and signature, returns, late fees, barcode scanning. Runs standalone on Supabase or connects to Odoo 19. English and Arabic. |
 
 #### Odoo modules (Odoo 19)
 
@@ -30,6 +36,6 @@ Write-ups with before/after and screenshots: [blasedoesit.com/#work](https://bla
 
 #### Tools
 
-Python · Odoo (ORM, OWL, QWeb) · PostgreSQL · JavaScript · C / C++ · HTML / CSS
+Python · Odoo (ORM, OWL, QWeb) · Flutter / Dart · Supabase · PostgreSQL · JavaScript · C / C++ · HTML / CSS
 
 Working in Arabic and English, UTC+3.
